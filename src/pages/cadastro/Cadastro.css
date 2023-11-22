@@ -1,0 +1,8 @@
+.fundoCadastro {
+    background-image: url("https://img.freepik.com/vetores-premium/recrutar-emprego-empregado-hr-contratacao-pesquisa-entrevista-curriculo-conceito-elemento-de-design-grafico-dos-desenhos-animados_133260-5596.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699056000&semt=ais");
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
