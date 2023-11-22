@@ -1,5 +1,6 @@
 import { useContext } from "react"
 import { AuthContext } from "../../contexts/AuthContext"
+import ListaProdutos from "../../components/produtos/listaProdutos/ListaProdutos"
 
 function Home() {
     
@@ -33,6 +34,7 @@ function Home() {
                     </div>
                 </div>
             </div>
+            <ListaProdutos />
         </>
     )
 }

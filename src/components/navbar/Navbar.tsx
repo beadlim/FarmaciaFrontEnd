@@ -10,7 +10,7 @@ function Navbar() {
                     Farmácia Saúde é Paz
 
                     <div className='flex gap-4'>
-                        Produtos
+                    <Link to='/produtos' className='hover:underline'>Produtos</Link>
                         <Link to='/categorias' className='hover:underline'>Categorias</Link>
                         <Link to='/cadastroTema' className='hover:underline'>Cadastrar Categoria</Link>
                         Perfil
